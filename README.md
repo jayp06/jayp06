@@ -9,6 +9,7 @@ Tenho experiência intermediária nas seguintes linguagens de programação:
 - **Python**
 - **JavaScript**
 - **Java**
+- **c++**
 
 Além disso, possuo **inglês avançado**, o que facilita a leitura de documentação e a colaboração em projetos internacionais. 🌍
 
